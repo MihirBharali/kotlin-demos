@@ -12,4 +12,4 @@ classes and methods, see [this blog post](https://blog.jetbrains.com/kotlin/2016
 Make sure you have at least IntelliJ IDEA 2017.1 and Kotlin plugin 1.1.x.
 This project uses a [Kotlin based Gradle](https://github.com/gradle/kotlin-dsl) configuration.
 
-This project is Apache 2.0 licensed.
+This project is Apache 2.0 licensed..
